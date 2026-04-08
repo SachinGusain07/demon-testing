@@ -76,7 +76,7 @@ export default function About() {
                     </div>
                   </div>
                   <div className="text-center">
-                    <div className="font-display text-2xl font-bold">Brooke Vescera</div>
+                    <div className="font-display text-2xl font-bold">demon testing</div>
                     <div className="text-ink/50 text-sm mt-1 tracking-widest uppercase">Founder, Demon Media</div>
                   </div>
                 </div>
@@ -99,7 +99,7 @@ export default function About() {
             <div>
               <span className="text-xs tracking-widest uppercase text-coral font-medium mb-4 block">The Founder</span>
               <h2 className="font-display text-5xl font-bold leading-tight">
-                Hi, I'm Brooke.<br />
+                Hi, I'm demon.<br />
                 <span className="italic text-coral">Nice to Meet You.</span>
               </h2>
             </div>
@@ -134,7 +134,7 @@ export default function About() {
               href="#contact"
               className="inline-flex items-center gap-3 border border-ink text-ink px-8 py-4 text-sm tracking-widest uppercase font-medium hover:bg-ink hover:text-cream transition-colors duration-300"
             >
-              Work With Brooke
+              Work With demon
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
@@ -151,7 +151,7 @@ export default function About() {
             <span className="text-coral">right people</span>, at exactly the right moment.
           </blockquote>
           <cite className="block mt-6 text-sm tracking-widest uppercase text-ink/40 not-italic">
-            — Brooke Vescera, Founder
+            — demon testing, Founder
           </cite>
         </div>
       </div>

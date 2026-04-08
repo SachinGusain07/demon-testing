@@ -85,7 +85,7 @@ export default function Hero() {
           </div>
 
           <p ref={subRef} className="text-ink/60 text-lg max-w-md leading-relaxed">
-            Demon Media helps brands build an irresistible online presence through bold content, strategic growth, and authentic storytelling. Founded by Brooke Vescera.
+            Demon Media helps brands build an irresistible online presence through bold content, strategic growth, and authentic storytelling. Founded by demon testing.
           </p>
 
           <div ref={ctaRef} className="flex flex-wrap gap-4 items-center">

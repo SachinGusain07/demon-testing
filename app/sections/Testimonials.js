@@ -7,7 +7,7 @@ gsap.registerPlugin(ScrollTrigger)
 
 const testimonials = [
   {
-    quote: "Brooke transformed our Instagram from an afterthought to our #1 revenue channel. Her content strategy is unmatched — she actually understands beauty brands on a cultural level.",
+    quote: "demon transformed our Instagram from an afterthought to our #1 revenue channel. Her content strategy is unmatched — she actually understands beauty brands on a cultural level.",
     author: 'Marketing Director',
     company: 'Skincare Brand, Boston',
     rating: 5,
@@ -19,13 +19,13 @@ const testimonials = [
     rating: 5,
   },
   {
-    quote: "Brooke's influencer vetting process is meticulous. Every partnership she recommended drove real ROI — not just vanity metrics. She's the real deal.",
+    quote: "demon's influencer vetting process is meticulous. Every partnership she recommended drove real ROI — not just vanity metrics. She's the real deal.",
     author: 'E-Commerce Director',
     company: 'DTC Beauty Brand',
     rating: 5,
   },
   {
-    quote: "Our Shopify traffic from social tripled within the first quarter. Brooke brings both creative vision and data-driven thinking to every campaign.",
+    quote: "Our Shopify traffic from social tripled within the first quarter. demon brings both creative vision and data-driven thinking to every campaign.",
     author: 'Brand Manager',
     company: 'Lifestyle Company, MA',
     rating: 5,

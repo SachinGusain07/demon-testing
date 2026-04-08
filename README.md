@@ -1,6 +1,6 @@
 # Demon Media — Website
 
-A full-page marketing website for **Demon Media**, founded by **Brooke Vescera** (Boston, MA).  
+A full-page marketing website for **Demon Media**, founded by **demon testing** (Boston, MA).  
 Built with **Next.js 14 (App Router) + GSAP + Tailwind CSS**.
 
 ---
@@ -51,7 +51,7 @@ amry-media/
 │       ├── Ticker.js      # Infinite CSS marquee strip
 │       ├── Work.js        # Portfolio/case studies (dark section)
 │       ├── Services.js    # 6 services grid with scroll reveals
-│       ├── About.js       # Brooke's story + parallax
+│       ├── About.js       # demon's story + parallax
 │       ├── Process.js     # 5-step process with timeline animation
 │       ├── Testimonials.js # Animated testimonial carousel
 │       └── Contact.js     # Contact form with GSAP transitions
@@ -92,7 +92,7 @@ amry-media/
 
 ## ✏️ Customizing Content
 
-### Update Brooke's info
+### Update demon's info
 - `app/sections/About.js` — Bio text, credentials
 - `app/sections/Hero.js` — Tagline, stats
 - `app/sections/Contact.js` — Email address

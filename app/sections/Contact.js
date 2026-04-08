@@ -64,7 +64,7 @@ export default function Contact() {
             </p>
 
             <div className="space-y-6">
-              <a href="mailto:brookevescera@gmail.com" className="flex items-center gap-4 group">
+              <a href="mailto:demontesting@gmail.com" className="flex items-center gap-4 group">
                 <div className="w-12 h-12 border border-white/20 group-hover:border-coral group-hover:bg-coral rounded-full flex items-center justify-center transition-all duration-300 flex-shrink-0">
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -72,7 +72,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-xs text-cream/40 tracking-widest uppercase mb-1">Email</div>
-                  <div className="hover-line text-cream/80 group-hover:text-cream transition-colors">brookevescera@gmail.com</div>
+                  <div className="hover-line text-cream/80 group-hover:text-cream transition-colors">demontesting@gmail.com</div>
                 </div>
               </a>
 
@@ -97,7 +97,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-xs text-cream/40 tracking-widest uppercase mb-1">LinkedIn</div>
-                  <div className="hover-line text-cream/80 group-hover:text-cream transition-colors">Brooke Vescera</div>
+                  <div className="hover-line text-cream/80 group-hover:text-cream transition-colors">demon testing</div>
                 </div>
               </a>
             </div>
@@ -113,7 +113,7 @@ export default function Contact() {
                   </svg>
                 </div>
                 <h3 className="font-display text-3xl font-bold mb-4">Message Received!</h3>
-                <p className="text-cream/60">Brooke will be in touch within 24 hours. Can't wait to connect.</p>
+                <p className="text-cream/60">demon will be in touch within 24 hours. Can't wait to connect.</p>
               </div>
             ) : (
               <form ref={formRef} onSubmit={handleSubmit} className="space-y-6">

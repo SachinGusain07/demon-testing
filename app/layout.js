@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Demon Media | Social Media & Content Strategy',
-  description: 'Brooke Vescera | Founder of Demon Media — Social Media Management, Influencer Marketing, Content Creation & Brand Strategy based in Boston, MA.',
+  description: 'demon testing | Founder of Demon Media — Social Media Management, Influencer Marketing, Content Creation & Brand Strategy based in Boston, MA.',
 }
 
 export default function RootLayout({ children }) {
