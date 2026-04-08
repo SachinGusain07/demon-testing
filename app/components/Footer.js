@@ -21,7 +21,7 @@ export default function Footer() {
               { label: 'About', href: '#about' },
               { label: 'Process', href: '#process' },
               { label: 'Contact', href: '#contact' },
-              { label: 'LinkedIn', href: 'https://www.linkedin.com/in/brooke-vescera/' },
+              { label: 'LinkedIn', href: 'https://www.linkedin.com/in/Demon-testing/' },
             ].map(link => (
               <a
                 key={link.label}
